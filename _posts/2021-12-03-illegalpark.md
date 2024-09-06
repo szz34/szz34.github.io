@@ -1,5 +1,5 @@
 ---
-title: '【论文阅读笔记】Detecting Vehicle Illegal Parking Events using Sharing Bikes' Trajectories'
+title: '【论文阅读笔记】Detecting Vehicle Illegal Parking Events using Sharing Bikes Trajectories'
 date: 2021-12-03
 permalink: /posts/2021/12/illegalpark/
 tags:
