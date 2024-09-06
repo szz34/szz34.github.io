@@ -1,6 +1,7 @@
 ---
 title: '【论文阅读笔记】Walkway Discovery from Large Scale Crowdsensing'
 date: 2021-10-29
+excerpt: ""
 permalink: /posts/2021/10/vitalalley/
 tags:
   - walkway discovery
