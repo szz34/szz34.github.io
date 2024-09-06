@@ -1,6 +1,7 @@
 ---
 title: 'pytorch坑：torch.index_select()导致结果无法复现'
 date: 2024-01-29
+excerpt: ""
 permalink: /posts/2024/01/indexselect/
 tags:
   - pytorch
